@@ -1,0 +1,30 @@
+
+    body {
+	background-color: #F2F2F2;
+    font-size: 110%;
+    }
+
+	html, body, button, input, select, textarea,
+.pure-g [class *= "pure-u"],
+.pure-g-r [class *= "pure-u"] {
+    font-family: Karla, Arial, Helvetica, sans-serif;
+    }
+
+	.l-box {
+        padding: 0 1em;
+    }
+
+    p {
+        margin: .7em 0;
+    }
+
+    h1, .center {
+    	text-align: center;
+    }
+    
+    .footer 
+ @media screen and (min-width: 768px) {
+    	.right {
+        	text-align: right;
+        }
+    }
