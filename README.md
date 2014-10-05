@@ -21,3 +21,7 @@ Be sure to check these lines
 <pre><code>$_GET['type'] = 0; include 'color.php';</code></pre>
 
 inside <strong>index.php</strong> file too, because they controls the overall functioning.
+
+---
+
+Huge thanks to <a href="http://blog.davideriboli.net" title="Davide Riboli">Davide Riboli</a> for the initial help.
