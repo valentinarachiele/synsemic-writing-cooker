@@ -7,8 +7,7 @@ The aim of <em>Synsemic writing cooker</em> is to generate random exercises abou
 
 To create your own exercises, create a TXT file for each variable. The TXT file must have a variable on each line. For example, your file <strong>color.txt</strong> will be structured like so:
 
-<pre><code>
-yellow<br>
+<pre><code>yellow<br>
 red<br>
 blue<br>
 ...<br>
