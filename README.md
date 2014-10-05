@@ -18,6 +18,6 @@ Then clone one of the PHP files (modifying its name, just to be sure there's a c
  
 Be sure to check these lines
 
-<pre><code><?php $_GET['type'] = 0; include 'color.php'; ?></code></pre>
+<pre><code>$_GET['type'] = 0; include 'color.php';</code></pre>
 
 inside <strong>index.php</strong> file too, because they controls the overall functioning.
